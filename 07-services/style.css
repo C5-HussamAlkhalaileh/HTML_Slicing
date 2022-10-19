@@ -1,0 +1,16 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    }
+
+body{
+    background-color:#ffffff;
+}    
+
+.div-title{
+    color: #ebeced;
+    text-align: center;
+    font-size: 120px;
+    font-family: fantasy;
+}
